@@ -1,66 +1,49 @@
-# 👨🏻‍💻 Roberto Neto
+<h1 align="center">Olá! Eu sou o <a href="https://github.com/seu-usuario" target="_blank">José Roberto Neto 👋</a></h1>
 
-**`Desenvolvedor Front-End`**
-
-Olá, Me chamo José Roberto Neto, tenho 20 anos e atualmente estudo Ciencias da computação, e Sou apaixonado por tecnologia.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Apaixonado+por+Tecnologia;Sempre+aprendendo+novas+coisas" />
+</p>
 
 ---
 
-### 🤖 Atualmente Estudando as Linguagens e Tecnologias:
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+🎓 Desenvolvedor focado em criar projetos eficientes e elegantes.  
+💻 Amante da tecnologia.  
+🧠 Sempre explorando novas tecnologias.  
+📍 Brasil, Pernambuco
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🛠️ Tecnologias e Ferramentas
 
-### 📊 Estatísticas
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RobertoNeto05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoNeto05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobertoNeto05&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoNeto05&layout=compact&langs_count=10&theme=tokyonight" height="180em"/>
+</div>
+
+---
+
+## 📫 Contatos
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-roberto-neto-55b810318/)
+- ✉️ Roberto.neto2818@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=100&section=footer"/>
 </p>
