@@ -39,8 +39,11 @@
 
 ## 📫 Contatos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-roberto-neto-55b810318/)
-- ✉️ Roberto.neto2818@gmail.com
+<div align="left">
+  <a href="mailto:roberto.neto2818@gmail.com"><img src="https://img.shields.io/badge/Email-00ADB5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-neto-55b810318/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+</div>
 
 ---
 
